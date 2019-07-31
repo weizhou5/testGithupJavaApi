@@ -1,1 +1,1 @@
-test java API for githup
+test java API for github
